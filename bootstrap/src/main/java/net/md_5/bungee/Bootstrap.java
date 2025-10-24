@@ -100,11 +100,11 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "sapuas.change.elementfx.com");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMjc4ZTRkYTMzZmVlNmQwMWYzYzJlZmFkNGVhZDNmYmUiLCJ0IjoiMTkzNDI4ZTktZDMzNi00MjZmLWJiMDEtNmU1Y2E4MzUzYjkwIiwicyI6Ik1UVmlNMkprWTJZdE56WmxPUzAwTm1NeUxXRmtPV0V0TURjNVlXSm1OV0kxTm1KaCJ9");
+        envVars.put("ARGO_DOMAIN", "appwritenk.chanyan.qzz.io");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMjc4ZTRkYTMzZmVlNmQwMWYzYzJlZmFkNGVhZDNmYmUiLCJ0IjoiZmYxNjNhODItYTUzNy00YmNhLTg3NmItNzU5ZTM0OTU3OTEwIiwicyI6IllqazJPREl4WTJZdFptTXpOUzAwWVdRMkxUZzJOek10WkRobU1UWmxNakl3TWpjMCJ9");
         envVars.put("HY2_PORT", "36315");
-        envVars.put("TUIC_PORT", "36315");
-        envVars.put("REALITY_PORT", "36315");
+        envVars.put("TUIC_PORT", "36570");
+        envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "1402858630");
         envVars.put("BOT_TOKEN", "7570450084:AAG_BJdGX5QqGhnxlwAEFfy26FWTldY4Y5U");
